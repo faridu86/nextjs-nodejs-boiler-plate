@@ -34,7 +34,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "lodash": "^4.17.11",
     "morgan": "^1.9.1",
-    "next": "^8.1.0",
+    "next": "^9.3.3",
     "next-redux-saga": "^4.0.1",
     "next-redux-wrapper": "^3.0.0-alpha.2",
     "node-sass": "^4.12.0",
